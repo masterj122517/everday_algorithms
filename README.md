@@ -5,4 +5,7 @@
 we will have a checklist here 
 - [x] linked List
 - [x] stack and queue
+- [ ] 哨兵
+- [ ] tree
+- [ ] binary search
 
